@@ -19,5 +19,5 @@ cp mod/build/libs/* build/mods
 
 cd build
 mkdir -p ../out
-packwiz modrinth export -o ../out/holiday-server-pack.mrpack
+packwiz modrinth export -o ../out/cutie_cars.mrpack
 packwiz refresh --build
