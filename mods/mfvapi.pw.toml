@@ -1,0 +1,13 @@
+name = "More Fox Variants API"
+filename = "mfvapi-1.0.0+26.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FGPy4Dsn/versions/tVXO3ZxE/mfvapi-1.0.0%2B26.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "d102560afd28b5c47416aa4491525a6eb05e5ad5fb9b1007497949f13e178e4e6df1205f85512009521aa64502c7c5d50c79c2a40584f2de621b9da9565a4949"
+
+[update]
+[update.modrinth]
+mod-id = "FGPy4Dsn"
+version = "tVXO3ZxE"

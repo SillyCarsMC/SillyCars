@@ -1,0 +1,13 @@
+name = "Blahaj - Replushed"
+filename = "blahaj-replushed-4.0.0+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5bb5rG4b/versions/HiR3oixt/blahaj-replushed-4.0.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "e8703c0dd78b545cb46f1fcebf9941e474b8f067b0e3510355005f6517ef4e0dc9f169619b8024ebf23d6bb9eac13863faa081b8e04fdc347c4f5377a733ecbb"
+
+[update]
+[update.modrinth]
+mod-id = "5bb5rG4b"
+version = "HiR3oixt"

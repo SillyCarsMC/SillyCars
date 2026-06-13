@@ -1,0 +1,13 @@
+name = "Directional Melons"
+filename = "directional_melons-1.0.3+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7UEarZn/versions/tIRNMK4I/directional_melons-1.0.3%2B26.1.jar"
+hash-format = "sha512"
+hash = "4bae83bc56f5523a9585f02851bc4477457aefc2b0fded7c22778492aa629c2e7bc7e44f0a0f95bcf79fdae1a40ce0bead96a3531c034d8fbcd9df4ad9cf19d7"
+
+[update]
+[update.modrinth]
+mod-id = "O7UEarZn"
+version = "tIRNMK4I"

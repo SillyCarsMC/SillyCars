@@ -1,0 +1,13 @@
+name = "Alloyed"
+filename = "alloyed-3.0.9+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KUInlTFo/versions/WnW1r3Wc/alloyed-3.0.9%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "14042b8c5c2f94cd739a07996019e652675022aacdbbe095a36c98f2c7a7ae514928c23e376e250855d6cd05b3bab22dbd91c56dbdaa1186439e38c342386332"
+
+[update]
+[update.modrinth]
+mod-id = "KUInlTFo"
+version = "WnW1r3Wc"
