@@ -57,7 +57,21 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "657c7da5836f8f8fede176445fcbc198e9783826e0981e7ff77ce7ca263fb191"
+metafile = true
+
+[[files]]
+file = "mods/echo-chest.pw.toml"
+hash = "aac0aeb2defbc4d747a1b6254174b736163a8742618935a32cf70b1ae6d01a74"
+metafile = true
+
+[[files]]
+file = "mods/energized-power-fd.pw.toml"
+hash = "acbabf143d1a81ab1660a5e8f971104584235ee7857802865608b03eae016755"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "5850e31164194700a42ac0e179e6239f5410288a124fb9dd56a2fdb347fecb4f"
 metafile = true
 
 [[files]]
@@ -117,7 +131,46 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+metafile = true
+
+[[files]]
+file = "mods/fantastic-wings.pw.toml"
+hash = "503961e5c8a1171685ee6fdcf897bc8e6cc92ba00b5b00478d1744e2e62c6478"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "557d564bb3154f36d3e0f389d2435696e5d618ed9b4aee51ec843db636e11671"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "3f0a597ff65909af767182e319cd0450a32bb789b667b1fbb634ea58376010b9"
+metafile = true
+
+[[files]]
+file = "mods/harder-eye-of-ender.pw.toml"
+hash = "49861c363d5a0ea29d71cd09e574fcdaa5d0ca30ddcff126584a34fe85c0d13a"
+metafile = true
+
+[[files]]
+file = "mods/improved-crystals.pw.toml"
+hash = "be55559a013eab95c1325b38841f6e023c10f36e9d30559c7d7b0036f531383b"
+metafile = true
+
+[[files]]
+file = "mods/jetpacks-techreborn.pw.toml"
+hash = "dc4137de0136e24fa94dbd9898bb88c50d3659a61f6980ee9a7947baca80e724"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
 metafile = true
 
 [[files]]
@@ -192,7 +245,6 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
 metafile = true
 
 [[files]]
@@ -277,7 +329,31 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "9319c3c28fcf1d824c7ac999851cdbcf3be9e9a1fe289e854cbebc15dc63b899"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "cf2137c92590de195ed31fe5d69d30207035644ee1d9d6a2edc444a8e5a16f89"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "bd6ee49f8560398efdc65efffa3ddc5f872ff781a255e5654c294087de48e0e0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "a7a718ab0bd594faf7afaa94f0d5a0d2f383b6e7be3d8560deed72b2daa6fe8a"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "93d685da7e61bd1bd52ebf8a70a532ae5e3cec875c931d63ac2bf572ac348258"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
 metafile = true
 
 [[files]]
