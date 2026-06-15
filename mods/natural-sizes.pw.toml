@@ -1,0 +1,13 @@
+name = "Natural Sizes"
+filename = "naturalsizes-1.1-fabric-26.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aGGh86tA/versions/xHXTMOYH/naturalsizes-1.1-fabric-26.1.2.jar"
+hash-format = "sha512"
+hash = "31ec147cb38160a0386688777f43a239826e23b067af37f3750cc614dd29bfd991a548f90bafda64bca1f1b905d32fe4a6b66448af38360bf452f9f44a422390"
+
+[update]
+[update.modrinth]
+mod-id = "aGGh86tA"
+version = "xHXTMOYH"

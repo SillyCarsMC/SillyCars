@@ -1,0 +1,13 @@
+name = "Lava Boats"
+filename = "lava-boats-1.1.2+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZpGaYjV/versions/L5r6Zu8A/lava-boats-1.1.2%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "dc50f98d3bd5efd988d60d809881e0c977364bfb82611c9a2996de3d250a8321cc5990173841cbb1264c246b9de705bb07d8a7a9d9715cc6ecd1fa4cedbf3bc0"
+
+[update]
+[update.modrinth]
+mod-id = "hZpGaYjV"
+version = "L5r6Zu8A"

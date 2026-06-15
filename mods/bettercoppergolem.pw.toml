@@ -1,0 +1,13 @@
+name = "Better Copper Golem"
+filename = "bettercoppergolem-1.1.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jb8poi1l/versions/BZyWcyKE/bettercoppergolem-1.1.8.jar"
+hash-format = "sha512"
+hash = "d3299903ac18177b9d4e7508f50b02601d6ccd3c363f9522327fce44f999daa760ec8e1278ee637f328b07e633c3a92ced0628b515822b81c1a018f3a94c4716"
+
+[update]
+[update.modrinth]
+mod-id = "jb8poi1l"
+version = "BZyWcyKE"

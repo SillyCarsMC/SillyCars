@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-mc26.1-Fabric-26.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/AyneEWob/Companion-mc26.1-Fabric-26.0.5.jar"
+hash-format = "sha512"
+hash = "b9221f239f75e81fa5a5c46508c762411f4ac351a371876d293087e08e017ee08b2b2571db32cfdba592b3be8ee6fc97fc8e1124ee7861297ac4a331e8951591"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "AyneEWob"
