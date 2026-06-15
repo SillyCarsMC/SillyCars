@@ -37,7 +37,6 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "657c7da5836f8f8fede176445fcbc198e9783826e0981e7ff77ce7ca263fb191"
 metafile = true
 
 [[files]]
@@ -57,11 +56,9 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/fantastic-wings.pw.toml"
 hash = "503961e5c8a1171685ee6fdcf897bc8e6cc92ba00b5b00478d1744e2e62c6478"
 metafile = true
@@ -94,19 +91,18 @@ metafile = true
 [[files]]
 file = "mods/jetpacks-techreborn.pw.toml"
 hash = "dc4137de0136e24fa94dbd9898bb88c50d3659a61f6980ee9a7947baca80e724"
-=======
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
->>>>>>> edc38b1 (Add Jade)
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c2f5b9d0c1d636cc08f302f16558a620be6c1b838642f2e6048e09f43a0d012e"
 metafile = true
 
 [[files]]
-
 file = "mods/modmenu.pw.toml"
 hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
@@ -164,14 +160,13 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "6c583c39183416e6e5e3472d20af187f5a8c0a31b722cd72092a53c6b8abb969"
-
-file = "mods/quickleafdecay.pw.toml"
-hash = "740189c3010ec7a924a3f8f91d3bb6649eae654dbc501d0542a44b29f8ca4929"
 metafile = true
 
 [[files]]
+file = "mods/quickleafdecay.pw.toml"
+
+[[files]]
 file = "mods/tectonic.pw.toml"
-hash = "9319c3c28fcf1d824c7ac999851cdbcf3be9e9a1fe289e854cbebc15dc63b899"
 metafile = true
 
 [[files]]
