@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-24.04
+    if: github.repository == 'SillyCarsMC/SillyCars'
     steps:
       - name: Checkout
         uses: actions/checkout@v6.0.1
@@ -47,6 +48,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    if: github.repository == 'SillyCarsMC/SillyCars'
     steps:
       - name: Deploy
         id: deployment
