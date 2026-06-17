@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-java@v5.1.0
         with:
           distribution: 'microsoft'
-          java-version: 21
+          java-version: 25
       - name: Setup Go
         uses: actions/setup-go@v6.1.0
         with:
