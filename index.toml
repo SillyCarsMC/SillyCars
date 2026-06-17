@@ -175,10 +175,6 @@ file = "mods/harder-eye-of-ender.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/headpat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/illager-invasion.pw.toml"
 metafile = true
 
