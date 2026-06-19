@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/CarsPack.iml"
+
+[[files]]
+file = ".idea/compiler.xml"
+
+[[files]]
+file = ".idea/gradle.xml"
+
+[[files]]
+file = ".idea/jarRepositories.xml"
+
+[[files]]
+file = ".idea/kotlinc.xml"
+
+[[files]]
+file = ".idea/misc.xml"
+
+[[files]]
+file = ".idea/modules.xml"
+
+[[files]]
+file = ".idea/modules/SillyCars.client.iml"
+
+[[files]]
+file = ".idea/modules/SillyCars.main.iml"
+
+[[files]]
+file = ".idea/modules/SillyCars.test.iml"
+
+[[files]]
+file = ".idea/vcs.xml"
+
+[[files]]
+file = ".idea/workspace.xml"
+
+[[files]]
 file = "CHANGELOG.md"
 
 [[files]]
