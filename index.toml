@@ -163,6 +163,10 @@ file = "mods/companion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
@@ -599,6 +603,10 @@ file = "mods/neo-bee-fix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/new-linked-chests.pw.toml"
 metafile = true
 
@@ -973,3 +981,18 @@ metafile = true
 [[files]]
 file = "mods/zombieimprovements.pw.toml"
 metafile = true
+
+[[files]]
+file = "unsup/instance.cfg"
+
+[[files]]
+file = "unsup/minecraft/unsup.ini"
+
+[[files]]
+file = "unsup/mmc-pack.json"
+
+[[files]]
+file = "unsup/patches/com.unascribed.unsup.json"
+
+[[files]]
+file = "unsup/silly_car.png"
