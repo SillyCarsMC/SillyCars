@@ -29,6 +29,9 @@
 		],
 		"fabric-datagen": [
 			"io.github.sillycarsmc.client.datagen.SillyCarsDataGenerator"
+		],
+		"mixinsquared": [
+			"io.github.sillycarsmc.mixin2.Canceller"
 		]
 	},
 	"mixins": [
