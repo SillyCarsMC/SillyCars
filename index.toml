@@ -186,6 +186,10 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/combat-nouveau.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 metafile = true
 
@@ -658,10 +662,6 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/punchy-fpa.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
@@ -883,10 +883,6 @@ metafile = true
 
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tiny-takeover-x-punchy.pw.toml"
 metafile = true
 
 [[files]]
