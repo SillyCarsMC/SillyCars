@@ -1,0 +1,8 @@
+name = "additionalplacements-fabric"
+filename = "additionalplacements-fabric-3.0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AkashiiKun/Additional-Placements/releases/download/v2/additionalplacements-fabric-3.0.1.1.jar"
+hash-format = "sha256"
+hash = "f9d742ccc4b78c452f6e43e3ddd2ba01a65fdc2f0fdd8b6d8d3dfba590d514ad"
