@@ -377,6 +377,10 @@ file = "mods/eternal-nether.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 metafile = true
 
