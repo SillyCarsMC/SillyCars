@@ -1,13 +1,13 @@
 name = "Stackable Trims"
-filename = "stackable-armor-trims-fabric-2.1.jar"
+filename = "stackable-armor-trims-fabric-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gRn99EsZ/versions/D3wGNRoM/stackable-armor-trims-fabric-2.1.jar"
+url = "https://cdn.modrinth.com/data/gRn99EsZ/versions/z51ihX5C/stackable-armor-trims-fabric-2.2.jar"
 hash-format = "sha512"
-hash = "48d30e6ea2d5ee3e5c5c53a80a85c16f1a0e8d666ba11cb15d3c90e9d5368e3dd2bd466a5efd84c08bf867e271c938e179ed1edf448f16ae3fd7c41c8c2c971c"
+hash = "18b26cbd34702e29701256702b6abc8c8e0f7c362c753baee637fe6102e8cb2d9be96a821bcba0c79d02b79b8ced23ab0699e061a4c07e8c253daec56b1dfd47"
 
 [update]
 [update.modrinth]
 mod-id = "gRn99EsZ"
-version = "D3wGNRoM"
+version = "z51ihX5C"

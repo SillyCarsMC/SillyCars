@@ -1,13 +1,13 @@
 name = "Companion 🐕"
-filename = "Companion-mc26.1-Fabric-26.0.5.jar"
-side = "both"
+filename = "Companion-mc26.1-Fabric-26.0.6.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/AyneEWob/Companion-mc26.1-Fabric-26.0.5.jar"
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/YuV5s1E9/Companion-mc26.1-Fabric-26.0.6.jar"
 hash-format = "sha512"
-hash = "b9221f239f75e81fa5a5c46508c762411f4ac351a371876d293087e08e017ee08b2b2571db32cfdba592b3be8ee6fc97fc8e1124ee7861297ac4a331e8951591"
+hash = "13b1adffc3174f8f72d9afa729441e37d9c495001d08277bf2534d6eb3f102a01798c39906442d3af5c52ec900a192136d3147afe17f53b8550208c00d1e740f"
 
 [update]
 [update.modrinth]
 mod-id = "4w0EzGRW"
-version = "AyneEWob"
+version = "YuV5s1E9"

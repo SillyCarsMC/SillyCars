@@ -1,13 +1,13 @@
 name = "BuildCraft Refabricated"
-filename = "BCRefabricated-26.6.19+mc26.1.2.jar"
+filename = "BCRefabricated-26.6.25+mc26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fBXt3AlC/versions/BgRHAMdu/BCRefabricated-26.6.19%2Bmc26.1.2.jar"
+url = "https://cdn.modrinth.com/data/fBXt3AlC/versions/BTUMfest/BCRefabricated-26.6.25%2Bmc26.1.2.jar"
 hash-format = "sha512"
-hash = "d3af8c231581e74bf5d404789db1c6c2e70680875fd95e4abd85ec49e50c32e257d80bb4236c3be03768fb05a7934d0bda734fdfb3a2ae20d8c79184ba77d52a"
+hash = "5704845dbf5bedb2b9cb695acc3da6e1546dc33c1cd3f7e25a002e6adcd0037a6934e42d63cd2f65a657bf99ec7c95a3530163daba05b54d97a2857b9e791e6e"
 
 [update]
 [update.modrinth]
 mod-id = "fBXt3AlC"
-version = "BgRHAMdu"
+version = "BTUMfest"
